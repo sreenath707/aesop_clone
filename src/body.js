@@ -343,6 +343,7 @@ function Body() {
           <div
             style={{
               marginLeft: "10%",
+              width: "80%",
             }}
           >
             <h1 style={{ fontWeight: "400", fontSize: "30px" }}>
