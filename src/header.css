@@ -1,0 +1,16 @@
+.top-anchor {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.top-anchor:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.nav-tags {
+  margin-left: 20px;
+  cursor: pointer;
+}
