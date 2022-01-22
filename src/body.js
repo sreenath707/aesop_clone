@@ -336,12 +336,13 @@ function Body() {
           style={{
             background: "#333",
             color: "white",
-            padding: "30px",
+            paddingTop: "30px",
+            paddingBottom: "30px",
           }}
         >
           <div
             style={{
-              marginLeft: "50px",
+              marginLeft: "10%",
             }}
           >
             <h1 style={{ fontWeight: "400", fontSize: "30px" }}>
