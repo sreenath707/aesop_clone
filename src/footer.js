@@ -76,7 +76,7 @@ function Footer() {
           }}
           className="col-xs-5 col-sm-4 col-md-2"
         >
-          <div>Orders and support</div>
+          <div style={{ fontWeight: "600" }}>Orders and support</div>
           <hr className="footer-hr"></hr>
           <div className="footer-content">Contact us</div>
           <div className="footer-content">
@@ -97,7 +97,7 @@ function Footer() {
             marginTop: "30px",
           }}
         >
-          <div>Services</div>
+          <div style={{ fontWeight: "600" }}>Services</div>
           <hr className="footer-hr"></hr>
           <div className="footer-content">Live assistance</div>
           <div className="footer-content">Corporate gifts</div>
@@ -107,7 +107,7 @@ function Footer() {
           style={{ marginTop: "30px" }}
           className="col-xs-5 col-sm-4 col-md-2"
         >
-          <div>Location preferences</div>
+          <div style={{ fontWeight: "600" }}>Location preferences</div>
           <hr className="footer-hr"></hr>
           <div className="footer-content">
             Shipping:{" "}
@@ -125,7 +125,7 @@ function Footer() {
       </div>
       <div style={{ marginBottom: "50px" }} className="row">
         <div className="col-xs-5 col-sm-4 col-5" style={{ marginTop: "30px" }}>
-          <div>Sustainability</div>
+          <div style={{ fontWeight: "600" }}>Sustainability</div>
           <hr></hr>
           <div>
             All Aesop products are vegan, and we do not test our formulations or
@@ -137,7 +137,7 @@ function Footer() {
           style={{ marginTop: "30px" }}
           className="col-xs-5 col-sm-4 col-md-2"
         >
-          <div>About</div>
+          <div style={{ fontWeight: "600" }}>About</div>
           <hr className="footer-hr"></hr>
           <div className="footer-content">Our Story</div>
           <div className="footer-content">
@@ -153,7 +153,7 @@ function Footer() {
             marginTop: "30px",
           }}
         >
-          <div>Social media</div>
+          <div style={{ fontWeight: "600" }}>Social media</div>
           <hr className="footer-hr"></hr>
           <div className="footer-content">
             Instagram <NorthEastIcon fontSize="10px" />
